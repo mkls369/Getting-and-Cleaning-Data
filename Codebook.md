@@ -24,21 +24,3 @@
 - td - second tiny data set with average of each variable for each activity and
   subject
 
-### Output
-
-#### tidyData.txt
-
-`tidyData.txt` is a 10299x68 data frame.
-
-- The first column contains subject IDs.
-- The second column contains activity names.
-- The last 66 columns are measurements.
-- Subject IDs are integers between 1 and 30.
-
-#### tidyData2.txt
-
-`tidyData2.txt` is a 180x68 data frame.
-
-- The first column contains subject IDs.
-- The second column contains activity names.
-- The averages for each of the 66 attributes are in columns 3-68.
